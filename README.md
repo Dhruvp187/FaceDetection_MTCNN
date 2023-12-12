@@ -4,6 +4,7 @@ Welcome to the Face Detection repository utilizing the MTCNN (Multi-Task Cascade
 
 ## Repository Structure:
 
+
 - **InputFolderForImageAndVideoFiles:** This folder contains the input images and videos on which you want to perform face detection.
 
 - **OutputFolder:** The output of the code will be saved in this folder. It includes annotated images/videos with detected faces.
