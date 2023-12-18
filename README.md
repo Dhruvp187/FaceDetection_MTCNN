@@ -2,7 +2,6 @@
 
 Welcome to the Face Detection repository utilizing the MTCNN (Multi-Task Cascaded Convolutional Networks) model! This project employs MTCNN for detecting faces in both images and videos.
 
-
 ## Repository Structure:
 
 - **InputFolderForImageAndVideoFiles:** This folder contains the input images and videos on which you want to perform face detection.
